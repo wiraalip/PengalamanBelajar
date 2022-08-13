@@ -10,3 +10,8 @@ Belajar Github
 Belajar HTML & CSS
 * Belajar dasar html
 * Belajar dasar css
+
+**20 Juni 2022**
+Belajar JavaScript
+* Belajar Cara Menulis
+* Belajar Fungsi
